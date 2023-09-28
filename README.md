@@ -8,9 +8,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <br>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mitesh2020&show_icons=true&theme=dark)
+![Mitesh Rathod's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mitesh2020&show_icons=true&theme=dark&custom_width=100)
 
-<br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mitesh2020&size_weight=0.1&count_weight=0.1)
 
