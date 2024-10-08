@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mitesh2020
-- 👀 I’m interested in Cybersecurity & Web3 Technology
+- 👀 I’m a Cybersecurity Researcher.
 - 📫 How to reach me here we go : miteshofficial007@gmail.com
 
 <!---
