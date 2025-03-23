@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mitesh2020
-- 👀 I’m a Cybersecurity Researcher.
+- 👀 I’m a Jr. SOC Anaylst.
 - 📫 How to reach me here we go : miteshofficial007@gmail.com
 
 <!---
